@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A louers desire for his best beloued: or, Come away, come away, and doe not stay. To an excellent new court tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1629?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00379</idno>
+            <idno type="STC">STC 16864.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[200]</idno>
+            <idno type="EEBO-CITATION">99884315</idno>
+            <idno type="PROQUEST">ocm99884315</idno>
+            <idno type="VID">183025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183025)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[107])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A louers desire for his best beloued: or, Come away, come away, and doe not stay. To an excellent new court tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by STC.</note>
+                  <note>Verse: "Now the spring is come, turne to thy loue ..."</note>
+                  <note>In two parts, separated for mounting, each with woodcut at head; part 2 has caption title: The second part. Or The vvomans ansvver.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="200" facs="tcp:183025:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>A Louers deſire for his beſt beloued: OR, Come away, come away, and doe not ſtay.</head>
+            <opener>To an excellent new Court Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>NOw the ſpring is come, turne to thy Loue</l>
+               <l>to thy Loue, to thy Loue, to thy Loue,</l>
+               <l>make no delay:</l>
+               <l>While the flowers ſpring, &amp; the birds do ſing,</l>
+               <l>their ſwéet tunes, their ſwéet tunes, their ſwéet tunes,</l>
+               <l>and doe not ſtay,</l>
+               <l>Where I will fill thy lap full of flowres,</l>
+               <l>And couer thee with ſhadie bowres,</l>
+               <l>come away, come away, come away,</l>
+               <l>and doe not ſtay.</l>
+            </lg>
+            <lg>
+               <l>Shall I languiſh ſtil for my Loue, for my loue,</l>
+               <l>for my Loue, for my Loue, &amp;c.</l>
+               <l>without relief:</l>
+               <l>Shall my faith ſo well approued,</l>
+               <l>now diſpaire, now diſpaire, &amp;c,</l>
+               <l>vnto my griefe?</l>
+               <l>Where ſhall beautie then be found,</l>
+               <l>But where vertue doth abound?</l>
+               <l>come away, come away, &amp;c.</l>
+               <l>and do &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Flora</hi> here hath made a bed</l>
+               <l>for my Loue, for my Loue, &amp;c.</l>
+               <l>with Roſes red:</l>
+               <l>
+                  <hi>Phoebus</hi> beames to ſtay are bent,</l>
+               <l>for to yeeld, for to yeeld, &amp;c.</l>
+               <l>my Loue content:</l>
+               <l>And the pleaſant Eglantine</l>
+               <l>Made with a thouſand flowers fine:</l>
+               <l>come away, come away, &amp;c.</l>
+               <l>and doe &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Harke how the Nightingale ſwéetly doth ſing</l>
+               <l>for my Loue, for my Loue, &amp;c.</l>
+               <l>the Lambes do play,</l>
+               <l>
+                  <hi>Pan,</hi> to pleaſe my Loue, the Rocks makes to ring,</l>
+               <l>And doth pipe, and doth pipe, &amp;c.</l>
+               <l>a rounde lay.</l>
+               <l>She the pleaſant ruſhy Brookes,</l>
+               <l>And euery Flower for my Loue lookes,</l>
+               <l>come away, come away,</l>
+               <l>and do not ſtay,</l>
+            </lg>
+            <lg>
+               <l>Beauties Queene with all her traine,</l>
+               <l>doth attend, doth attend &amp;c.</l>
+               <l>upon my Deare:</l>
+               <l>Tripping Satyrs they do dance amaine,</l>
+               <l>to delight, to delight, &amp;c.</l>
+               <l>her hath no phere.</l>
+               <l>Muſes nine with Muſicke ſweet.</l>
+               <l>Do all attend my Loue to meet</l>
+               <l>come away, come away, &amp;c.</l>
+               <l>and doe &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Faireſt fayre, now turne to thy Loue,</l>
+               <l>to thy Loue, to thy Loue, &amp;c.</l>
+               <l>that loues thee beſt:</l>
+               <l>Sweet, let pitty moue, grant loue for loue,</l>
+               <l>like the Doue, like the Doue, &amp;c.</l>
+               <l>for euer reſt.</l>
+               <l>Crowne thy delights with hopefull ioy<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</l>
+               <l>Thy loue reuiues, thy hate deſtroyes,</l>
+               <l>come away, come away, come away,</l>
+               <l>and do not ſtay.</l>
+            </lg>
+         </div>
+         <div type="ballad">
+            <pb n="201" facs="tcp:183025:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>The Second Part. OR The VVomans anſvver.</head>
+            <opener>To the ſame tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>VVHo ist that calleth me come away;</l>
+               <l>tis my Loue, tis my &amp;c.</l>
+               <l>moſt chearefull voice:</l>
+               <l>He looks cherefull as the bright day,</l>
+               <l>which doth make, which doth &amp;c.</l>
+               <l>each heart reioyce.</l>
+               <l>With flowers ſweet Ile make my bed,</l>
+               <l>My lap a pillow for thy head.</l>
+               <lg type="refrain">
+                  <l>come away, come &amp;c.
+and doe &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If thou doubteſt, Swéeteſt proue,</l>
+               <l>that thy Loue, that thy &amp;c.</l>
+               <l>ſhe lou'd thee euer.</l>
+               <l>Nor ne're think, deare, but I will be thy Doue</l>
+               <l>and from thee, and from &amp;c,</l>
+               <l>Ile neuer ſeuer:</l>
+               <l>Tis not beauty makes me proud,</l>
+               <l>For tis that heauen hath allowd</l>
+               <lg type="refrain">
+                  <l>come away, come &amp;c,
+and do &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>See the louely Queen of Flowres</l>
+               <l>ſhe hath ſtrewn, ſhe hath &amp;c.</l>
+               <l>thy way to trace:</l>
+               <l>Trees do bend to make thee bowers,</l>
+               <l>Satyrs peep, Satyrs &amp;c</l>
+               <l>to ſee thy face:</l>
+               <l>Lambes to pleaſe thee leap and ſkip,</l>
+               <l>And little Fairies trip.</l>
+               <lg type="refrain">
+                  <l>come away, come &amp;c.
+and doe &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Woods yeeld pleaſant harmony,</l>
+               <l>for my Loue, for my &amp;c.</l>
+               <l>the Birds do ſing,</l>
+               <l>Thy abſence makes them ſeem to cry:</l>
+               <l>
+                  <hi>phillis</hi> crownes <hi>Phillis</hi> &amp;c,</l>
+               <l>thee Summers King:</l>
+               <l>With a wreath of flowres ſweet,</l>
+               <l>All the Nimphs my loue do greet,</l>
+               <lg type="refrain">
+                  <l>come away, come &amp;c,
+and doe &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Venus</hi> doth not ſtick to ſweare</l>
+               <l>By her Doues, by her &amp;c.</l>
+               <l>ſheel ſteale my Loue:</l>
+               <l>And as for <hi>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> teares her haire,</l>
+               <l>her faire eyes, her faire &amp;c.</l>
+               <l>much ſorrow proues:</l>
+               <l>But for all the Indian wealth,</l>
+               <l>None ſhall haue him but my ſelfe:</l>
+               <lg type="refrain">
+                  <l>come away, come &amp;c
+and do not ſtay:</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Like the words eye my Loue doth appeare</l>
+               <l>when his ſteeds, when his &amp;c.</l>
+               <l>approach the morne:</l>
+               <l>And his face the Clowds doe cleare,</l>
+               <l>dims the ſtars, dims the &amp;c,</l>
+               <l>and <hi>Cynthias</hi> horne:</l>
+               <l>Now I am in my marriage bed,</l>
+               <l>See my armes for thee are ſpred.</l>
+               <lg type="refrain">
+                  <l>come away, come away, come away,
+and doe not ſtay.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Aſſignes of Thomas Symcocke</p>
+         </div>
+      </back>
+   </text>
+</TEI>
